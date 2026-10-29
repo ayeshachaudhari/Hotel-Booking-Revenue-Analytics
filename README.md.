@@ -1,4 +1,4 @@
-# 🏨 Hotel Booking & Revenue Optimization (MySQL)
+#  Hotel Booking & Revenue Optimization (MySQL)
 
 An end-to-end SQL analytics project built on a relational hotel-management database. It covers schema design, sample data loading, data-quality checks, and **15 business analysis questions** on revenue, cancellations, customer value, booking sources, room types, payments, services, expenses and overall hotel performance.
 

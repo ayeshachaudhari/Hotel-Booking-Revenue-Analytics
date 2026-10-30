@@ -7,6 +7,13 @@ Hotel Booking and Revenue Analytics Dashboard using Power BI, SQL and CSV data.
 An end-to-end SQL analytics project built on a relational hotel-management database. It covers schema design, sample data loading, data-quality checks, and **15 business analysis questions** on revenue, cancellations, customer value, booking sources, room types, payments, services, expenses and overall hotel performance.
 
 
+![MySQL](https://img.shields.io/badge/MySQL-8.0+-4479A1?logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/Language-SQL-orange)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
+---
+
+
 ##  Project Overview
 
 | Item | Details |
